@@ -1,7 +1,8 @@
-#  **Empathy**: In this phase, I converse with people going through mental illness by asking questions like 'how does anxiety interfere with your daily life?' Based on my observations and research on group, I was able to build a map given some informations.
+<span style="color:ORANGE;">**_Empathy_**</span>
 
-## In general
+In this phase, I converse with people going through mental illness by asking questions like 'how does anxiety interfere with your daily life?' Based on my observations and research on group, I was able to build a map given some informations.
 
+    1. IN GENERAL
 
 - People are traumatized due to covid19 virus
 - People are scared of covid19 virus
@@ -20,7 +21,7 @@
 
 
 
-      ### AT WORKPLACE
+      2. AT WORKPLACE
 
 - People are stressing about workload being overwhelming at work
 - People are not supported enough by their colleagues
@@ -30,7 +31,7 @@
 - People are facing poor work life balance
 
 
-    #### ANXIETY 
+       3. ANXIETY 
 
 - People are worry too much about their bills 
 - People are dealing with severe health condition
@@ -42,8 +43,16 @@
 - Users can not find easily solutions to their problems when looking at ressource from work regarding mental health issues
 - Users feel like they cannot talk to coworkers( in their team or not ) about what they are going through
 
-| _Says_ | _thinks_ |
-| _Does_ | _Feels_  |
+Tables Map
 
-| _Pain Points_ |
+| _Says_ | _Thinks_  |
+|-----------|---------|
+| _Does_    | _Feels_ |
+
+| Pain Points                                |
+|--------------------------------------------|
+
+
+
+
 
