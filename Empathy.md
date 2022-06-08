@@ -18,10 +18,7 @@ In this phase, I converse with people going through mental illness by asking que
 - People started working from home due to covid
 
 
-
-
-
-      2. AT WORKPLACE
+          2. AT WORKPLACE
 
 - People are stressing about workload being overwhelming at work
 - People are not supported enough by their colleagues
@@ -31,7 +28,7 @@ In this phase, I converse with people going through mental illness by asking que
 - People are facing poor work life balance
 
 
-       3. ANXIETY 
+          3. ANXIETY 
 
 - People are worry too much about their bills 
 - People are dealing with severe health condition
@@ -43,7 +40,7 @@ In this phase, I converse with people going through mental illness by asking que
 - Users can not find easily solutions to their problems when looking at ressource from work regarding mental health issues
 - Users feel like they cannot talk to coworkers( in their team or not ) about what they are going through
 
-Tables Map
+Table Map
 
 | _Says_ | _Thinks_  |
 |-----------|---------|
